@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo contains the code written as part of implementing the capstone project in Front-End Developer Program course
 
 ## Available Scripts
 
